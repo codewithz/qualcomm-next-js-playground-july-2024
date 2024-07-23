@@ -5,7 +5,7 @@ export default function NotFoundPage() {
     <div>
         {/* <img src='https://purepng.com/public/uploads/large/purepng.com-qualcomm-logologobrand-logoiconslogos-251519939930f5fdq.png'
     /> */}
-      The Requested Page doesn't exist
+      The Requested Page doesn&apos;t exist
     </div>
   )
 }

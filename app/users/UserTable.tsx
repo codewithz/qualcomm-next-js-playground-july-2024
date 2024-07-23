@@ -13,7 +13,7 @@ interface Props{
 }
 
 export default async function UserTable({sortOrder}:Props) {  
-    const response=await fetch("https://jsonplaceholder.typicode.com/users",
+    const response=await fetch("https://jsonplaceholder.typicode.com/xusers",
         {
             cache:'no-store'
         }
