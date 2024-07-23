@@ -1,0 +1,8 @@
+/* No hyphens   -- Only camelCasing */
+/* .card-container     X */
+/* .cardContainer */
+
+.card{
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
