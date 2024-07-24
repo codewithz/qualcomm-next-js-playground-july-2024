@@ -13,6 +13,7 @@ export default async function Home() {
         <h1>Welcome &nbsp;
           {session && <span>{session.user!.name}</span>}</h1>
           <h3>to Qualcomm Next JS Training</h3>
+          <img src="https://logos-world.net/wp-content/uploads/2022/11/Qualcomm-Emblem.png" width={200} height={200}/>
         <Link href="/users">Users</Link>
         <ProductCard />
       </div>
